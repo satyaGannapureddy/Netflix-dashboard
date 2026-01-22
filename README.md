@@ -22,4 +22,5 @@ The dashboard highlights how Netflix’s catalog has evolved over time and how c
 - Exploratory Data Analysis (EDA)
 
 ## 📷 Dashboard Preview
-![Netflix Dashboard](assets/netflix-dashboard.png)
+![Netflix Dashboard](assets/Netflix.png)
+
